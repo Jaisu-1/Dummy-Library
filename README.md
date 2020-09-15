@@ -20,3 +20,8 @@ Running the program -
 3. Installing Dependencies
 	1. There is a requirements.txt stored, you can installing it by running 
 	pip install requirements.txt
+
+
+### Description 
+
+The project's purpose is to demonstrate ORM for a library system using python.
