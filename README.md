@@ -1,5 +1,4 @@
-# Programming assignment #1 - CS 6360.501
-
+# JaisuDB - A Database Engine
 ## Author : Jaisurya Nanduri
 ## Date : 27 Oct 2019
 
