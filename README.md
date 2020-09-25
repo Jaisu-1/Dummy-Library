@@ -1,4 +1,4 @@
-# JaisuDB - A Database Engine
+# LibFace - A Fully Functional Library GUI 
 ## Author : Jaisurya Nanduri
 ## Date : 27 Oct 2019
 
