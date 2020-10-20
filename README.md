@@ -1,6 +1,5 @@
 # LibFace - A Fully Functional Library GUI 
 
-To compile - Our Entry Point would be - main.py
 
 ![Dummy Library](/dlib.png)
 
@@ -19,6 +18,7 @@ Running the program -
 	1. There is a requirements.txt stored, you can installing it by running 
 	pip install requirements.txt
 
+To compile - Our Entry Point would be - main.py
 
 ### Description 
 
