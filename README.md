@@ -3,7 +3,8 @@
 ## Date : 27 Oct 2019
 
 To compile - Our Entry Point would be - main.py
-compile it as follows
+
+![Dummy Library](/dlib.png)
 
 
 Pre-requisites - 
