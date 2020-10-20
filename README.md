@@ -1,6 +1,4 @@
 # LibFace - A Fully Functional Library GUI 
-## Author : Jaisurya Nanduri
-## Date : 27 Oct 2019
 
 To compile - Our Entry Point would be - main.py
 
@@ -25,3 +23,5 @@ Running the program -
 ### Description 
 
 The project's purpose is to demonstrate ORM for a library system using python.
+## Author : Jaisurya Nanduri
+## Date : 27 Oct 2019
